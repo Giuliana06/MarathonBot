@@ -1,0 +1,8 @@
+python-telegram-bot
+requests
+matplotlib
+python-dotenv
+python-telegram-bot
+requests
+matplotlib
+python-dotenv
